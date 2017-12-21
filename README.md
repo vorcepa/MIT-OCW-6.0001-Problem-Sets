@@ -2,6 +2,7 @@
 Problem sets from MIT's Opencourseware 6.0001 (Intro to CS and computer programming in Python)
 
 Copyright Massachusetts Institute of Technology ("MIT") under Creative Commons CC BY-NC-SA 4.0
+
 Original material: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 
 ----------
