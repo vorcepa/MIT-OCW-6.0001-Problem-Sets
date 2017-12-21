@@ -7,6 +7,6 @@ Original material: https://ocw.mit.edu/courses/electrical-engineering-and-comput
 
 ----------
 
-These files cover my attempts at the problem sets presented in this class 6.0001: Introduction to Computer Science and Programming in Python.
+These files cover my attempts at the problem sets presented in this class 6.0001: Introduction to Computer Science and Programming in Python.  Since this is for my own education, and not for a grade, these programs may have some differences to what is outlined in the requirements of the problem set PDF.
 
 FOR PROBLEM SET 2: In the "Hangman with hints" portion of the problem set, I did not understand the purpose of the function "match_with_gaps".  This part of the problem set was skipped, and everything needed to help the player was coded in to the function "show_possible_matches"
