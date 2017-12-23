@@ -11,4 +11,10 @@ These files cover my attempts at the problem sets presented in this class 6.0001
 
 Ex. : pset 2 is intended to be completed after the branching and iterations lecture, so that assignment makes heavy [and hopefully correct] use of those concepts.
 
+FOR PROBLEM SET 0: Skipped.  Trivial exercises + installation of Spyder (which I already installed).
+
+FOR PROBLEM SET 1: Skipped.  Trivial exercises.
+
 FOR PROBLEM SET 2: In the "Hangman with hints" portion of the problem set, I did not understand the purpose of the function "match_with_gaps".  This part of the problem set was skipped, and everything needed to help the player was coded in to the function "show_possible_matches"
+
+FOR PROBLEM SET 3: test_ps3.py was never used.  I made my own test scripts for each problem within the set.  I hope it works?
